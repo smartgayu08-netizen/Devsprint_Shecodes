@@ -1,6 +1,6 @@
 # Search Term Triage Engine (DevSprint, PS-01)
 
-Team: <your team name>
+Team: SheCodes
 
 ## Problem
 Analysts check thousands of Google Ads search terms by hand every week.
